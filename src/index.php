@@ -13,3 +13,10 @@ if ($conn->connect_error) {
 }
 echo "Sucessfull connection !";
 ?>
+
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Hola Mundo</h1>
+</body>
+</html>
